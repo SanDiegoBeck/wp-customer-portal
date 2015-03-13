@@ -1,0 +1,1 @@
+WP-Customer-Portal serves as a client relation, project management, invoicing, and resource management tool. This all-in-one solution operates on top of the WordPress platform. It is specifically tailored for IT companies.
